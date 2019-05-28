@@ -1,0 +1,46 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding: 2vw;
+    z-index: 2;
+}
+    .header__element {
+        line-height: 1em;
+        transition: all .3s linear 0s;
+        transform-style: preserve-3d;
+        height: 1em;
+        display: block;
+        text-decoration: none;
+        flex: 0 33.333%;
+    }
+        .header:hover .header__element, 
+        .header:active .header__element {
+            transform: rotateX(-89.8deg);
+        }
+        .header__element-default,
+        .header__element-active {
+            display: block;
+            height: 1em;
+            text-align: left;
+            transform: translateZ(0.5em);
+        }
+        .header__element-active {
+            transform: rotateX(90deg) translateZ(1.5em);
+            transition: all .3s linear 0s;
+        }
+        .header__element:last-child .header__element-default,
+        .header__element:last-child .header__element-active {
+            text-align: right;
+        }
+        .header__element--middle .header__element-default,
+        .header__element--middle .header__element-active {
+            width: 100%;
+            text-align: center;
+        }

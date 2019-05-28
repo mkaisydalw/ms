@@ -1,0 +1,81 @@
+
+.arrow {
+    height: 34px;
+    width: 44px;
+    z-index: 2;
+    bottom: 2vw;
+    position: absolute;
+    float: right;
+  }   
+  @media screen and (min-width: 900px) {
+    .arrow {
+        position: fixed;
+        height: 80vh;
+        width: 50vw;
+        top: 10vh;
+        bottom: auto;
+        z-index: 2;
+    }
+  }
+    .arrow::after,
+    .arrow::before {
+        content: "";
+        position: absolute;
+        width: 1px;
+        height: 20px;
+        background-color: #000;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%) rotate(45deg);
+        margin-top: -7px;
+    }
+    @media screen and (min-width: 900px) {
+        .arrow::after,
+        .arrow::before {
+            display: none
+        }
+    }
+    .arrow::after {
+        transform: translate(-50%, -50%) rotate(-45deg);
+        margin-top: 7px;
+    }
+    .arrow--next {
+        right: 0;
+        transform: rotate(180deg);
+    }
+    @media screen and (min-width: 900px) {
+        .arrow--next {
+            transform: rotate(0deg);
+            cursor: url(./icons/arrow_right.svg) 14 26, auto;
+        }
+    }
+    .arrow--prev {
+        right: 44px;
+    }
+    @media screen and (min-width: 900px) {
+        .arrow--prev {
+            left: 0;
+            right: auto;
+            transform: rotate(0deg);
+            cursor: url(./icons/arrow_left.svg) 14 26, auto;
+        }
+    }
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 2vw;    
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+@media screen and (min-width: 900px) {
+    .footer__counter {
+        position: absolute;
+        right: 0;
+        right: 2vw;
+        bottom: 2vw;
+    }
+}
