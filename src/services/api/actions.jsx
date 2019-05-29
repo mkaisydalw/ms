@@ -97,7 +97,7 @@ const getGallery = () => (
                     },
                     {
                         "place" : "middle",
-                        "text" : "<p> Marianna Serocka – Visual Artist Born n 1988 in Starogard Gdanski. In 2014 she graduated from Painting at Academy of Fine Arts in Cracow. Live and work in Cracow..</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>All images © Marianna Serocka 2019</p>"
+                        "text" : "<p> Marianna Serocka – Visual Artist Born n 1988 in Starogard Gdanski</p> In 2014 she graduated from Painting at Academy of Fine Arts in Cracow</pL>live and work in Cracow</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>All images © Marianna Serocka 2019</p>"
                     }
                 ]
             ]
