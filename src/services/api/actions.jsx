@@ -20,8 +20,8 @@ const getGallery = () => (
     async () => ({
         "gallery": [
             {
-                "id" : "for_evening",
-                "name" : "Na wieczó",
+                "id" : "disco_cry",
+                "name" : "Disco Cry",
                 "image" : "images/discocry.jpg",
                 "className" : "link--black",
                 "items" : [
@@ -48,8 +48,8 @@ const getGallery = () => (
                 ]
             },
             {
-                "id" : "disco_cry",
-                "name" : "Disco Cry",
+                "id" : "na_wieczor",
+                "name" : "Na wieczór",
                 "image" : "images/Bez nazwy-2.jpg",
                 "className" : "link--white",
                 "items" : [
@@ -80,24 +80,24 @@ const getGallery = () => (
                 [
                     {
                         "place" : "left",
-                        "title" : "SELECTED CLIENTS",
-                        "text" : "<p>AnOther<br />Anthropologie<br />Centre for Sustainable Fashion<br />Christopher Raeburn<br />GreenPeace<br />i-D<br />Its Nice That<br />Maiyet<br />Nike<br />Preen<br />Selfridges<br />The Royal Opera House<br />Vogue&nbsp;UK<br />Vogue Russia<br />Vogue Turkey<br />Vogue Ukraine</p>"
+                        "title" : "",
+                        "text" : ""
                     },
                     {
                         "place" : "middle",
                         "title" : "EXHIBITIONS",
-                        "text" : "<p>Stypendium Twórcze Miasta Krakowa<br />2018</p><p>Pop-up Hip Hip Library at Structura Gallery :<br />strūctūra</p><p>Laureaci Stypendiów Twórczych Miasta Krakowa<br />2017</p><p>Wywiad w Polskim Radiu Czwórka</p><p>Festival filmowy w Teheranie</p><p>Rezydencja Wyszechradzka w Budapeszie</p><p>Wystawa zbiorowa: Rysować naturalnie!<br />GSW Chłodna 20</p><p>Sztuka Komiksu Europy Środkowej CENTRALA<br />Polska institutet i Stockholm</p><p>Wystawa Zbiorowa: NO PROBLEM<br />Galeria Potencja</p><p>Morderstwo<br />Korporacja Ha!art</p><p>Fotograficzny Pamiętnik</p><p>Wystawa zbiorowa: Leszek Misiak i uczniowie<br />Przestrzeń dla Sztuki<br />OPEN EYES FESTIVAL 2017</p><p>Disco Cry | Centrala | Mądre Komiksy</p><p>Wystawa indywidualna: Galeria Henryk | Das ist Wiksa</p>"
+                        "text" : "<p>Pop-up Hip Hip Library at Structura Gallery :<br />strūctūra<//p><p>Festival filmowy w Teheranie</p><p>Rezydencja Wyszechradzka w Budapeszie</p><p>Wystawa zbiorowa: Rysować naturalnie!<br />GSW Chłodna 20</p><p>Sztuka Komiksu Europy Środkowej CENTRALA<br />Polska institutet i Stockholm</p><p>Wystawa Zbiorowa: NO PROBLEM<br />Galeria Potencja</p><p>Morderstwo<br />Korporacja Ha!art</p><p>Wystawa zbiorowa: Leszek Misiak i uczniowie<br />Przestrzeń dla Sztuki<br />OPEN EYES FESTIVAL 2017//p><p>Wystawa indywidualna: Galeria Henryk | Das ist Wiksa</p>"
                     }
                 ],
                 [
                     {
                         "place" : "left",
                         "title" : "KONTAKT",
-                        "text" : "<p>T +48 515 832 618<br /><a href=\"mailto:marianna.serocka@gmail.com\">marianna.serocka@gmail.com</a><br />Facebook; <a href=\"https://www.facebook.com/otherthemes/\" target=\"_blank\">Other Themes</a></p>"
+                        "text" : "<p>T +48 515 832 618<br /><a href=\"mailto:marianna.serocka@gmail.com\">marianna.serocka@gmail.com</a><br /
                     },
                     {
                         "place" : "middle",
-                        "text" : "<p>Kerry’s&nbsp;vision was influenced by several years of travelling, finally settling on London as her home. She studied at London College of Printing, now part of University of the Arts, and began working in documentary and landscape photography.</p><p>Her initial body of work and first solo exhibition “The Emptiness of a Land with no Fences” was shown at the Muse Gallery London, showcasing a series of images taken in Mongolia. The work went on to be shown as part of a “Winter notes on Summer impressions” at the Six Degrees Gallery London, and then also shown at The Front View Gallery.</p><p>Since her first visit in 2005 Kerry has returned to Mongolia on several occasions, most recently to direct a short film documenting the&nbsp;‘Fair’ cashmere project, which supports the livelihoods of nomadic herding communities in remote regions of The Gobi desert.</p><p>Moving into exploring fashion, she became interested in bridging the gap between fashion and her exhibition work, which led her to work on a number of projects that highlight the need for greater social and environmental awareness in the fashion industry. i-Sustain, a year long project for i-D magazine was shot in a variety of British landscapes, exploring the evolving relationship between fashion and sustainability; Part of the work went on to be exhibited at Mother London.</p><p>Kerry’s work is often shot in the lonely isolation of remote locations, where both her subjects and her distinct use of colour, texture and light, oscilate between belonging and incongruity.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>All images © Marianna Serocka 2019</p>"
+                        "text" : "<p> Marianna Serocka – Visual Artist Born n 1988 in Starogard Gdanski. In 2014 she graduated from Painting at Academy of Fine Arts in Cracow. Live and work in Cracow..</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>All images © Marianna Serocka 2019</p>"
                     }
                 ]
             ]
