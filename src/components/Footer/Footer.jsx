@@ -8,9 +8,10 @@ const Footer = ({
     amount,
     nextButton,
     prevButton,
+    footerTitle,
 }) => (
     <footer className="footer">
-        <div className="footer__title">Disco Cry</div>
+        {footerTitle && <div className="footer__title">{footerTitle}</div>}
         <div className="footer__counter" id="counter">
             {`${currentIndex} / ${amount}`}
         </div>

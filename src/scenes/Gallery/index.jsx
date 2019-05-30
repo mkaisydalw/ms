@@ -6,6 +6,7 @@ import Gallery from './Gallery';
 import {
     isLoaded,
     getGalleryItems,
+    getGalleryItemsTitle,
 } from '../../services/api/selectors';
 import {
     initAPI,
@@ -18,6 +19,7 @@ const mapDispatchToProps = (dispatch) => ({
 const mapStateToProps = (state, ownProps) => ({
     isLoaded: isLoaded(state),
     galleryItems: getGalleryItems(state, ownProps.match.params.id),
+    galleryTitle: getGalleryItemsTitle(state, ownProps.match.params.id),
 })
   
 export default connect(mapStateToProps, mapDispatchToProps)(Gallery);
