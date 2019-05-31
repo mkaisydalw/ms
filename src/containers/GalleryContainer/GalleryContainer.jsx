@@ -48,6 +48,7 @@ class GalleryContainer extends Component {
             galleryType,
             galleryItems,
             className,
+            footerTitle,
         } = this.props;
 
         const {
@@ -91,6 +92,7 @@ class GalleryContainer extends Component {
                     ))
                 }
                 <Footer
+                    footerTitle={footerTitle}
                     currentIndex={currentIndex}
                     amount={galleryItems.length}
                     nextButton={this.nextButton}

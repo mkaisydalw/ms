@@ -21,10 +21,16 @@ class Gallery extends Component {
         const {
             isLoaded,
             galleryItems,
+            galleryTitle,
         } = this.props;
 
         return isLoaded ? (
-            <GalleryContainer galleryItems={galleryItems} className="gallery" galleryType="images"/>
+            <GalleryContainer
+                footerTitle={galleryTitle}
+                galleryItems={galleryItems}
+                className="gallery"
+                galleryType="images"
+            />
         ) : (
             <div>Loading</div>
         )
