@@ -109,7 +109,7 @@ const getGallery = () => (
                   {
                       "place" : "middle",
                       "title" : "EXHIBITIONS",
-                      "text" : " </p> 2018 Ozimina – W I D N A </p> WGW/ Potencja Galeria</p> 2017 Wystawa Zbiorowa: NO PROBLEM - Galeria Potencja </p> 2016 Wystawa Zbiorowa: Galeria Henryk | Zespół Pieśni i Tańca Henryk →Galeria Henryk | Das ist Wiksa </p> <b>AWARDS AND ACHIEVEMENTS</b> </p> 2018 Stypendium Twórcze Miasta Krakowa </p> 2017 Rezydencja Wyszechradzka w Budapeszie Stypendium Twórcze Miasta Krakowa </p>"
+                      "text" : " </p> 2018 Ozimina – W I D N A </p> WGW/ Potencja Galeria</p> 2017 Wystawa Zbiorowa: NO PROBLEM - Galeria Potencja </p> 2016 Wystawa Zbiorowa: Galeria Henryk | Zespół Pieśni i Tańca Henryk →Galeria Henryk | Das ist Wiksa </p> <b>AWARDS AND ACHIEVEMENTS</b> </p> 2018 Stypendium Twórcze Miasta Krakowa </p> 2017 Rezydencja Wyszechradzka w Budapeszie </p> 2017 Stypendium Twórcze Miasta Krakowa </p>"
                   }
                 ]
             ]
