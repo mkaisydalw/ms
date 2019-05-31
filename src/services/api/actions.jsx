@@ -97,7 +97,7 @@ const getGallery = () => (
                     },
                     {
                         "place" : "middle",
-                        "text" : "<p>  Marianna Serocka an artist currently based in Kraków/Poland.</p>Education:2009-2014 Academy of Fine Arts in Krakow, Poland. MA Degree in Painting </p> 2012-2013 Aalto University in Helsinlki, Poland. MA Degree in Painting> Since my official comic book debut in 2016 I’ve been working for a wide range of clients including press, advertising, music and fashion industry.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>All images © Marianna Serocka 2019</p>"
+                        "text" : "<p>  Marianna Serocka an artist currently based in Kraków/Poland.</p> Since my official comic book debut in 2016 I’ve been working for a wide range of clients including press, advertising, music and fashion industry.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>All images © Marianna Serocka 2019</p>"
                     }
                 ],
                 [
@@ -109,7 +109,7 @@ const getGallery = () => (
                   {
                       "place" : "middle",
                       "title" : "EXHIBITIONS",
-                      "text" : "<p>Exhibitions: </p> 2018 Ozimina – W I D N A </p> WGW/ Potencja Galeria</p> 2017 Wystawa Zbiorowa: NO PROBLEM - Galeria Potencja </p> 2016 Wystawa Zbiorowa: Galeria Henryk | Zespół Pieśni i Tańca Henryk →Galeria Henryk | Das ist Wiksa </p> AWARDS AND ACHIEVEMENTS:</p> 2018 Stypendium Twórcze Miasta Krakowa </p> 2017 Rezydencja Wyszechradzka w Budapeszie Stypendium Twórcze Miasta Krakowa </p>"
+                      "text" : " </p> 2018 Ozimina – W I D N A </p> WGW/ Potencja Galeria</p> 2017 Wystawa Zbiorowa: NO PROBLEM - Galeria Potencja </p> 2016 Wystawa Zbiorowa: Galeria Henryk | Zespół Pieśni i Tańca Henryk →Galeria Henryk | Das ist Wiksa </p> AWARDS AND ACHIEVEMENTS:</p> 2018 Stypendium Twórcze Miasta Krakowa </p> 2017 Rezydencja Wyszechradzka w Budapeszie Stypendium Twórcze Miasta Krakowa </p>"
                   }
                 ]
             ]
