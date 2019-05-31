@@ -83,11 +83,6 @@ const getGallery = () => (
                         "title" : "",
                         "text" : ""
                     },
-                    {
-                        "place" : "middle",
-                        "title" : "NEWS",
-                        "text" : "<p> wywiad w Polskim Radiu Czwórka </p><a href="https://www.polskieradio.pl/10/482/Artykul/1682219,Disco-Cry-czyli-apetyt-na-wieczne-imprezy">NAZWA </a></p> </p>"
-                    }
                 ],
                 [
                     {
