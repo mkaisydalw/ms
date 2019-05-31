@@ -97,7 +97,7 @@ const getGallery = () => (
                     },
                     {
                         "place" : "middle",
-                        "text" : "<p>  Marianna Serocka an artist currently based in Kraków/Poland.</p> Since my official comic book debut in 2016 I’ve been working for a wide range of clients including press, advertising, music and fashion industry.</p> <b>EDUCATION</b></p>2009-2014 Academy of Fine Arts in Krakow, Poland. MA Degree in Painting </p>2012-2013 Aalto University in Helsinlki, Finland.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>All images © Marianna Serocka 2019</p>"
+                        "text" : "<p>  Marianna Serocka an artist currently based in Kraków/Poland.</p> Since my official comic book debut in 2016 I’ve been working for a wide range of clients including press, advertising, music and fashion industry.</p> <b>EDUCATION</b> </p>2009-2014 Academy of Fine Arts in Krakow, Poland. MA Degree in Painting </p>2012-2013 Aalto University in Helsinlki, Finland.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>All images © Marianna Serocka 2019</p>"
                     }
                 ],
                 [
