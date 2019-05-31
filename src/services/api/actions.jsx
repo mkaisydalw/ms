@@ -104,7 +104,7 @@ const getGallery = () => (
                   {
                       "place" : "middle",
                       "title" : "EXHIBITIONS",
-                      "text" : "</p> 2019 </p> Głębokie słuchanie, BWA Katowice </p> 2018 </p> Versailles is over, Négyszoba Galéria, Budapest, Hungary </p> <a href=\"http://widna.pl/index.php/ozimina/\">Ozimina,Widna Gallery,Kraków </a></p> </p> 2017 </p> NO PROBLEM,Potencja Gallery,Kraków </p> 2016 </p> Zespół Pieśni i Tańca Henryk, Henryk Gallery, Kraków </p> Das ist Wiksa, Henryk gallery, Kraków </p> <b>AWARDS AND ACHIEVEMENTS</b> </p> 2019 </p> BGSW USTKA</p> </p> 2018 </p> Stypendium Twórcze Miasta Krakowa </p> 2017 </p> Rezydencja Wyszechradzka w Budapeszie </p> Stypendium Twórcze Miasta Krakowa </p>"
+                      "text" : "</p> 2019 </p> Głębokie słuchanie, BWA Katowice </p> 2018 </p> Versailles is over, Négyszoba Galéria, Budapest, Hungary </p> <a href=\"http://widna.pl/index.php/ozimina/\">Ozimina,Widna Gallery,Kraków </a></p> </p> 2017 </p> NO PROBLEM,Potencja Gallery,Kraków </p> 2016 </p> Zespół Pieśni i Tańca Henryk, Henryk Gallery, Kraków </p> Das ist Wiksa, Henryk gallery, Kraków </p> <b>AWARDS AND ACHIEVEMENTS</b> </p> 2019 </p> BGSW </p> </p> 2018 </p> Stypendium Twórcze Miasta Krakowa </p> 2017 </p> Rezydencja Wyszechradzka w Budapeszie </p> Stypendium Twórcze Miasta Krakowa </p>"
                   }
                 ]
             ]
