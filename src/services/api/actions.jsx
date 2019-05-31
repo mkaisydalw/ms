@@ -75,7 +75,7 @@ const getGallery = () => (
             }
         ],
         "about" : {
-            "title" : "O",
+            "title" : "About",
             "page" : [
                 [
                     {
@@ -85,8 +85,8 @@ const getGallery = () => (
                     },
                     {
                         "place" : "middle",
-                        "title" : "EXHIBITIONS",
-                        "text" : "<p>Pop-up Hip Hip Library at Structura Gallery :<br />strūctūra<//p><p>Festival filmowy w Teheranie</p><p>Rezydencja Wyszechradzka w Budapeszie</p><p>Wystawa zbiorowa: Rysować naturalnie!<br />GSW Chłodna 20</p><p>Sztuka Komiksu Europy Środkowej CENTRALA<br />Polska institutet i Stockholm</p><p>Wystawa Zbiorowa: NO PROBLEM<br />Galeria Potencja</p><p>Morderstwo<br />Korporacja Ha!art</p><p>Wystawa zbiorowa: Leszek Misiak i uczniowie<br />Przestrzeń dla Sztuki<br />OPEN EYES FESTIVAL 2017//p><p>Wystawa indywidualna: Galeria Henryk | Das ist Wiksa</p>"
+                        "title" : "NEWS",
+                        "text" : "<p> </p> </p>"
                     }
                 ],
                 [
@@ -97,8 +97,20 @@ const getGallery = () => (
                     },
                     {
                         "place" : "middle",
-                        "text" : "<p> Marianna Serocka – Visual Artist Born n 1988 in Starogard Gdanski</p> In 2014 she graduated from Painting at Academy of Fine Arts in Cracow</pL>live and work in Cracow</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>All images © Marianna Serocka 2019</p>"
+                        "text" : "<p>  Marianna Serocka an artist currently based in Kraków/Poland.</p>Education:2009-2014 Academy of Fine Arts in Krakow, Poland. MA Degree in Painting </p> 2012-2013 Aalto University in Helsinlki, Poland. MA Degree in Painting> Since my official comic book debut in 2016 I’ve been working for a wide range of clients including press, advertising, music and fashion industry.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>All images © Marianna Serocka 2019</p>"
                     }
+                ],
+                [
+                  {
+                      "place" : "left",
+                      "title" : "",
+                      "text" : ""
+                  },
+                  {
+                      "place" : "middle",
+                      "title" : "EXHIBITIONS",
+                      "text" : "<p>Exhibitions: </p> 2018 Ozimina – W I D N A </p> WGW/ Potencja Galeria</p> 2017 Wystawa Zbiorowa: NO PROBLEM - Galeria Potencja 2016 Wystawa Zbiorowa: Galeria Henryk | Zespół Pieśni i Tańca Henryk →Galeria Henryk | Das ist Wiksa Awards and achievements: 2018 Stypendium Twórcze Miasta Krakowa 2018 →2017Rezydencja Wyszechradzka w Budapeszie Laureaci Stypendiów Twórczych Miasta Krakowa 2017</p>"
+                  }
                 ]
             ]
         }
