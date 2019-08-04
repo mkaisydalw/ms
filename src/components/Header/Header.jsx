@@ -8,11 +8,11 @@ const Header = () => (
     <header className="header">
         <Link to="/" className="header__element">
             <span className="header__element-default">Marianna</span>
-            <span className="header__element-active">front</span>
+            <span className="header__element-active">Home</span>
         </Link>
         <Link to="/about" className="header__element">
             <span className="header__element-default">Serocka</span>
-            <span className="header__element-active">o</span>
+            <span className="header__element-active">More about</span>
         </Link>
     </header>
 )

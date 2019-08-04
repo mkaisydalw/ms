@@ -83,7 +83,7 @@ class GalleryContainer extends Component {
                                         {title && (
                                             <p><strong>{title}</strong></p>
                                         )} 
-                                        <div dangerouslySetInnerHTML={{ __html: text }} />;
+                                        <div dangerouslySetInnerHTML={{ __html: text }} />
                                     </div>
                                 ))
                             }
