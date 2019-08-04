@@ -80,7 +80,7 @@ const getGallery = () => (
                 [
                     {
                         "place" : "left",
-                        "title" : "KONTAKT",
+                        "title" : "CONTACT",
                         "text" : "<p>T +48 515 832 618<br /><a href=\"mailto:marianna.serocka@gmail.com\">marianna.serocka@gmail.com</a><br /"
                     },
                     {
