@@ -80,12 +80,19 @@ const getGallery = () => (
                 [
                     {
                         "place" : "left",
+                        "title" : "",
+                        "text" : ""
+                    },
+                ],
+                [
+                    {
+                        "place" : "left",
                         "title" : "KONTAKT",
                         "text" : "<p>T +48 515 832 618<br /><a href=\"mailto:marianna.serocka@gmail.com\">marianna.serocka@gmail.com</a><br /"
                     },
                     {
                         "place" : "middle",
-                        "text" : "<p>  Marianna Serocka, b.1988 in Starogard Gdanski, Poland. Work and lives in Kraków.</p> Since my official comic book debut in 2016 I’ve been working for a wide range of clients including press, advertising, music and fashion industry.</p> <b>EDUCATION</b> </p>2009-2014 Academy of Fine Arts in Krakow, Poland. MA Degree in Painting </p>2012-2013 Aalto University in Helsinlki, Finland.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>All images © Marianna Serocka 2019</p>"
+                        "text" : "<p>  Marianna Serocka, b.1988 in Starogarg Gdanski, Poland. Work and lives in Kraków.</p> Since my official comic book debut in 2016 I’ve been working for a wide range of clients including press, advertising, music and fashion industry.</p> <b>EDUCATION</b> </p>2009-2014 Academy of Fine Arts in Krakow, Poland. MA Degree in Painting </p>2012-2013 Aalto University in Helsinlki, Finland.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>All images © Marianna Serocka 2019</p>"
                     }
                 ],
                 [
