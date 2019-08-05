@@ -26,12 +26,12 @@ const getGallery = () => (
                 "className" : "link--black",
                 "items" : [
                     {
-                        "src" : "images/001.jpg",
+                        "src" : "/images/001.jpg",
                         "type" : "",
                         "name" : "001"
                     },
                      {
-                        "src" : "images/Marianna Serocka_Strona_24.jpg",
+                        "src" : "../../images/Marianna Serocka_Strona_24.jpg",
                         "type" : "full",
                         "name" : "Marianna Serocka_Strona_24"
                     },
